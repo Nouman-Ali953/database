@@ -1,0 +1,17 @@
+{
+  "name": "serving",
+  "version": "1.0.0",
+  "description": "this is my practice session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nouman_Ali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
